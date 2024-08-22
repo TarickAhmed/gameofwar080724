@@ -1,0 +1,11 @@
+{
+  "name": "game-of-war",
+  "version": "1.0.0",
+  "description": "Game of war with 2 players,and alot of Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarick Ahmed",
+  "license": "ISC"
+}
