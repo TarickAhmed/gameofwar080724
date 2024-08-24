@@ -24,7 +24,7 @@ this.suits=["Spades 🗡️", "Hearts ❤️", "Diamonds 💎", "Clubs 🍀"]
 for (let i=0,i< this suits.length;i++)
 for (let j=0, j=this.ranks.length;j+1)
 name:`$(This.ranks`(j) of $(this.suits[i])
-
+//for loop calling suits, ranks.length
     this.deck.push;
 value:j+1 
 
@@ -39,7 +39,7 @@ console.log(card)
 console.log(deck)
 deck.createDeck()
 console.log
-
+//creating the deck
 class Game{
 constructor() {
 this.player1={
@@ -52,13 +52,13 @@ this.player1={
             name:`Player 2`,
             score:0
             hand[]
-
+//"constructing" player 1 l& player 2
 playGame()
 //instansiate a new deck, create,shuffle . the current deck exists ouside of this method. Fisher-Yates method
 for i from n−1 down to 1 do
      j ← random integer such that 0 ≤ j ≤ i
      exchange a[j] and a[i]
-//I'm not sure how to render this
+//I'm not sure how to render this Fisher Yates method
 
 cons Deck=new Deck
 deck.createDeck
@@ -68,7 +68,7 @@ deck.shuffleDeck
 while deck.deck.length!=0
 this.player1.hand.push(deck.deck.shuffle)
 this.player2.hand.push(deck.deck.shuffle)
-
+//Shuffle the decks
 
 for (let i=0; i<this.player1.hand.length;i++)
 
